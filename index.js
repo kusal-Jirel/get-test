@@ -6,3 +6,4 @@ function kusal(name) {
 
 kusal("kusal")
 console.log(a)
+console.log("kusal")
